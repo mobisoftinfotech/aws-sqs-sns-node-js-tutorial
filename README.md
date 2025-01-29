@@ -2,7 +2,7 @@
 
 Learn how to build a reliable, scalable messaging system in Node.js by leveraging AWS Simple Queue Service (SQS) and Simple Notification Service (SNS).
 
-This repository contains the code for the tutorial: <a  href="https://mobisoftinfotech.com/resources/blog/aws-sqs-sns-nestjs-typescript-tutorial">AWS SQS and SNS in a NestJS Application with TypeScript Integration</a> by <a  href="https://mobisoftinfotech.com/">Mobisoft - App Development Company, Houston</a>
+This repository contains the code for the tutorial: <a  href="https://mobisoftinfotech.com/resources/blog/aws-sqs-sns-nestjs-typescript-tutorial">AWS SQS and SNS Node JS tutorial: Integrating AWS SQS and SNS in a NestJS Application with TypeScript</a> by <a  href="https://mobisoftinfotech.com/">Mobisoft - App Development Company, Houston</a>
 
 ## How to Run the Project
 
@@ -46,7 +46,7 @@ The application should now be running on [http://localhost:3000](http://localhos
 
 ---
 
-## **Testing the APIs**
+## **Test the APIs**
 
 You can test the integration using a **POST** request to publish a message to SNS Or SQS:
 
